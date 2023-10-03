@@ -1,3 +1,7 @@
+/* My own font */
+/* u can delete it */
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&family=Fuggles&family=Play:wght@400;700&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -6,4 +10,11 @@
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
+}
+
+/* delete it */
+h1 {
+	font-family: 'Dancing Script', cursive;
+	font-family: 'Fuggles', cursive;
+	font-family: 'Play', sans-serif;
 }
