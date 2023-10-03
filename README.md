@@ -1,10 +1,11 @@
 # Vite project template by malinatrash!
 
 ## Includes:
-1. React 
-2. Tailwind
-3.  Redux ToolKit
-4.  React-Router
+1. React
+2. TypeScript
+3. Tailwind
+4.  Redux ToolKit
+5.  React-Router
 
 ## Motivation
 I have always been terribly excited every time I create a new project from scratch to deal with the configuration of all libraries and modules. Therefore, I am making for myself and for everyone a template for creating your web application on a modern stack!
