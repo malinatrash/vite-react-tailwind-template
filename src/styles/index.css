@@ -1,6 +1,6 @@
 /* My own font */
 /* u can delete it */
-@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&family=Fuggles&family=Play:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&family=Fuggles&family=Pixelify+Sans:wght@400;500;600;700&family=Play:wght@400;700&display=swap');
 
 @tailwind base;
 @tailwind components;
@@ -14,7 +14,5 @@
 
 /* delete it */
 h1 {
-	font-family: 'Dancing Script', cursive;
-	font-family: 'Fuggles', cursive;
-	font-family: 'Play', sans-serif;
+	font-family: 'Pixelify Sans', cursive;
 }
