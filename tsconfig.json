@@ -26,7 +26,9 @@
 			"@hooks/*": ["src/hooks/*"],
 			"@scripts/*": ["src/scripts/*"],
 			"@api/*": ["src/api/*"],
-			"@store/*": ["src/store/*"]
+			"@store/*": ["src/store/*"],
+			"@pages/*": ["src/pages/*"],
+			"@styles/*": ["src/styles/*"]
 		},
 		"types": ["vite-plugin-svgr/client"]
 	},
